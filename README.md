@@ -45,12 +45,12 @@ A colorful command-line implementation of the classic Rock Paper Scissors game, 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/rps-game.git
+    git clone https://github.com/miquelladesu/RPS
     ```
 
 2. Navigate to the game directory:
     ```bash
-    cd rps-game
+    cd rps
     ```
 
 3. Run the game:
@@ -60,4 +60,4 @@ A colorful command-line implementation of the classic Rock Paper Scissors game, 
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License
